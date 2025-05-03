@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my Portfolio website**
 
-- 🌱 I’m currently learning **React.js, Machine Learning**
+- 🌱 I’m currently learning **Full-stack development ,App development,React.js, Machine Learning**
 
 - 📫 How to reach me **arpantech1130@gmail.com**
 
