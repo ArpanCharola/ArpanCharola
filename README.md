@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arpan Charola</h1>
 <h3 align="center">Just a Techie</h3>
 
-- 🔭 I’m currently working on **my Portfolio website**
+- 🔭 I’m currently working on **MERN-stack project about Indian Heritage**
 
 - 🌱 I’m currently learning **Full-stack development, App development, React.js, Machine Learning**
 
