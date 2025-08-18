@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpan Charola</h1>
-<h3 align="center">A passionate Java, Full-stack development</h3>
+<h3 align="center">Just a Techie</h3>
 
 - 🔭 I’m currently working on **my Portfolio website**
 
