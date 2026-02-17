@@ -1,6 +1,3 @@
-<!-- Banner / Custom Header (optional) -->
-<!-- ![header image](your-custom-banner-link) -->
-
 <h1 align="center">Hi 👋, I'm Arpan Charola</h1>
 <p align="center">
   <em>B.Tech IT @ Marwadi University | Full-Stack & Cloud Developer | Blogger | AI Enthusiast</em>
@@ -15,42 +12,67 @@
 
 ---
 
-### 🚀 Tech Stack & Tools
+## 🎯 About Me
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+I'm a passionate Full-Stack Developer and AI enthusiast currently pursuing B.Tech in IT. I love building web applications that solve real-world problems and exploring the intersection of AI and web technologies. 
+---
+
+## 🚀 Tech Stack & Tools
+
+**Languages:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+
+**Frontend:**
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+**Backend:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+
+**Databases:**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
----
-
-### 🏆 Achievements & Interests
-
-- 🌐 Built **Bharat Sanskriti** - Heritage platform (React, Node, MongoDB)
-- 🎨 **Photorealistic Floral Synthesis** - GAN/Deep Learning (Python, PyTorch)
-- 📝 [Tech blogger](https://medium.com/@arpancharola30)
-- 🏏 **Cricket4** (Java Swing)
--  **100+ DSA Questions Solved** (C++, Java)
--  **Embrace Thoughts** (Angular, Node.js, MySQL)
+**Cloud & DevOps:**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+## 🏆 Key Projects & Achievements
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpanCharola&show_icons=true&theme=tokyonight" alt="Arpan's GitHub Stats" width="410"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpanCharola&layout=compact&theme=tokyonight&hide=scss,css" alt="Top Languages" width="350"/>
-</p>
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **Bharat Sanskriti** | Heritage platform showcasing Indian culture | React, Node.js, MongoDB |
+| **Photorealistic Floral Synthesis** | GAN-based deep learning project for flower image generation | Python, PyTorch, TensorFlow |
+| **Embrace Thoughts** | Blogging/journaling platform | Angular, Node.js, MySQL |
+| **Cricket4** | Desktop cricket game | Java Swing |
 
-###                                                                                           Let's Connect!
+**Other Highlights:**
+- 🎓 100+ DSA questions solved (C++, Java)
+- 🤖 Exploring AI/ML applications in web development
 
 ---
+
+## 💡 What I'm Currently Learning
+
+- Fullstack Development
+- Machine Learning & AI applications
+- DevOps & CI/CD pipelines
+- Backend optimization & scalability
+
+---
+
+## 🤝 Let's Connect!
+
+Feel free to reach out if you want to collaborate on projects, discuss tech, or just connect!
+
+- 📧 Email: [arpantech1130@gmail.com](mailto:arpantech1130@gmail.com)
+- 🌐 Portfolio: [arpan-charola-dev.vercel.app](https://arpan-charola-dev.vercel.app)
+- 💼 LinkedIn: [@tech-arpan-charola](https://linkedin.com/in/tech-arpan-charola)
